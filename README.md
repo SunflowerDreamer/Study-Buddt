@@ -45,4 +45,5 @@ Follow these steps to get started with Study-Buddt:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/Study-Buddt.git
+
+   https://github.com/your-username/Study-Buddt.git
